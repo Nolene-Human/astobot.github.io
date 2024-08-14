@@ -1,0 +1,20 @@
+site_name: Astobuo
+
+site_url: https://astobot.com
+
+markdown_extensions:
+  - attr_list
+
+
+extra_css:
+  - stylesheets/extra.css
+
+theme:
+  name: mkdocs
+  nav_style: dark
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: www.linkedin.com/in/barelyhuman
