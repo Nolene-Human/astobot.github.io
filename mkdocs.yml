@@ -6,7 +6,7 @@ plugins:
 nav:
   - Home: index.md
   - About: about.md
-  - Contact: mvp.md
+  - MVP: mvp.md
 
 markdown_extensions:
   - toc:
