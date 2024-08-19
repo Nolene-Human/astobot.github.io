@@ -17,18 +17,12 @@ I am a passionate software engineer with a love for coding and problem-solving. 
 
 Here are some of the projects I have worked on:
 
-1. **E-commerce Website**: Developed a fully functional e-commerce website using React and Node.js. Implemented features like user authentication, product listing, and shopping cart functionality.
-
-2. **Weather App**: Created a weather application using Python and the OpenWeatherMap API. Users can enter a location and get real-time weather information.
-
-3. **Task Manager**: Built a task manager application using Java and MySQL. Users can create, update, and delete tasks, and the data is stored in a database.
 
 ## Education
 
-- Bachelor's Degree in Computer Science, XYZ University
+- Bachelor's Degree in Software Engineering
 
 ## Contact Me
 
-Feel free to reach out to me via email at [email protected] or connect with me on LinkedIn.
+Feel free to reach out to me via email at nolenehuman@hotmail.com or connect with me on LinkedIn.
 
-Thank you for visiting my interactive about me page!
