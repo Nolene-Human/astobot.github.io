@@ -8,7 +8,4 @@ nav:
   - About: about.md
   - MVP: mvp.md
 
-markdown_extensions:
-  - toc:
-      permalink: true
 
