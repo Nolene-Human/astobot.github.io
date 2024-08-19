@@ -1,4 +1,4 @@
-site_name: My GitHub Site
+site_name: Astubot
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - search
@@ -7,6 +7,9 @@ nav:
   - Home: index.md
   - About: about.md
   - MVP: mvp.md
+
+extra_css:
+  - styles.css
 
 markdown_extensions:
   - toc:
