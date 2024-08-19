@@ -1,0 +1,77 @@
+/* styles.css */
+
+/* General Styles */
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Orbitron', sans-serif;
+    color: #00ff99;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+/* Link Styles */
+a {
+    color: #00ccff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff66cc;
+    text-decoration: underline;
+}
+
+/* Button Styles */
+button {
+    background-color: #ff66cc;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button:hover {
+    background-color: #ff3399;
+}
+
+/* Container Styles */
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* Card Styles */
+.card {
+    background-color: #333333;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* Footer Styles */
+footer {
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
